@@ -1,2 +1,13 @@
+*{
+    margin: 0%;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
 
+.box{
+    background-color: peachpuff;
+    border: 1px solid black;
+}
 /* Your CSS Code here. */
